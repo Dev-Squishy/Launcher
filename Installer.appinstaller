@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://dev-squishy.github.io/Launcher/Installer.appinstaller"
-	Version="1.0.25.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.26.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="29032814-0f99-4bad-8d93-dfe313362eac"
-		Version="1.0.25.0"
+		Version="1.0.26.0"
 		Publisher="CN=Dark Bear Studios"
-		Uri="https://dev-squishy.github.io/Launcher/Installer_1.0.25.0_Test/Installer_1.0.25.0_x86_x64.msixbundle" />
+		Uri="https://dev-squishy.github.io/Launcher/Installer_1.0.26.0_Test/Installer_1.0.26.0_x86_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
